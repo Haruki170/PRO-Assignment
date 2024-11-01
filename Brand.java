@@ -6,7 +6,7 @@ package Classes.Com;
 
 /**
  *
- * @author kan3v
+ * @author hangn
  */
 public class Brand {
     private String brandID;
@@ -61,9 +61,5 @@ public class Brand {
     @Override
     public String toString() {
         return "< " + brandID + ", " + brandName + ", " + soundBrand + ": " + price + " >";
-    }
-
-    
-    
-    
+    }    
 }
