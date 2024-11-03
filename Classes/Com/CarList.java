@@ -15,7 +15,7 @@ import java.util.Collections;
 
 /**
  *
- * @author kan3v
+ * 
  */
 public class CarList {
 
