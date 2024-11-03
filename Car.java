@@ -6,7 +6,7 @@ package Classes.Com;
 
 /**
  *
- * @author kan3v
+
  */
 public class Car implements Comparable<Car> {
 
