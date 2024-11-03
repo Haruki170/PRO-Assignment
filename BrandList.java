@@ -41,7 +41,7 @@ public class BrandList {
             }
         }
     }
-            public int searchID(String bID) {
+        public int searchID(String bID) {
         int n = brands.size();
         for (int i = 0; i < n-1; i++) {
             if (brands.get(i).getBrandID().equalsIgnoreCase(bID)) {
