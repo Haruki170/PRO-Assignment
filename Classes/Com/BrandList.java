@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author hangn
+ * 
  */
 public class BrandList {
 
