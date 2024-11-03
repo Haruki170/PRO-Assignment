@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Haruki
+ * 
  */
 public class Car implements Comparable<Car> {
 
