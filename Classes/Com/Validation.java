@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author kan3v
+ * 
  */
 public class Validation {
     
